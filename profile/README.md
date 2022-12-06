@@ -36,3 +36,7 @@ The project leverages Wasm, content addressing, SPKI, and object capabilities to
 3. IPVM
 
 These are related, but separate. The relatedness comes from the fact that if we have one Wasm engine in IPFS, then the other components can rely on it too.
+
+## 👩‍💻 Get Involved
+
+* [Community Calls](https://lu.ma/ipvm)
