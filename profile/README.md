@@ -1,6 +1,6 @@
 # What Is An IPVM?
 
-To date, IPFS has been a project focused on data. IPVM is the codename for an attempt to bring execution to IPFS. To this end, IPVM aims to be the easiest, fastest, most secure, and open way to run Wasm anywhere.
+To date, IPFS has been a project focused on data. IPVM is a specification for bringing execution to content addresses data on IPFS. To this end, the IPVM spec aims to be the easiest, fastest, most secure, and open way to run decentralized compute jobs.
 
 Another way to describe IPVM would be "an open, decentralized, and local-first competitor to AWS Lambda".
 
@@ -21,6 +21,12 @@ The project leverages Wasm, content addressing, SPKI, and object capabilities to
 * Mobile (ambient) computing, compute-to-data, and data-to-compute
 * "The HTTP of Compute"
 * Stretch: autonomous agents
+
+# Implementations and Interop
+
+* Bacalhau
+* Web3Storage
+* Homestar
 
 # :no_good_woman: Antigoals: What An IPVM Is Not
 
