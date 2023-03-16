@@ -24,9 +24,9 @@ The project leverages Wasm, content addressing, SPKI, and object capabilities to
 
 # Implementations and Interop
 
-* Bacalhau
-* Web3Storage
-* Homestar
+* [Bacalhau](https://bacalhau.org)
+* [Homestar](https://github.com/ipvm-wg/homestar/)
+* [Web3Storage](https://web3.storage/)
 
 # :no_good_woman: Antigoals: What An IPVM Is Not
 
