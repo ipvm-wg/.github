@@ -1,6 +1,6 @@
 # What Is An IPVM?
 
-To date, IPFS has been a project focused on data. IPVM is a specification for bringing execution to content addresses data on IPFS. To this end, the IPVM spec aims to be the easiest, fastest, most secure, and open way to run decentralized compute jobs.
+To date, IPFS has been a project focused on data. IPVM is a specification for bringing content-addressed execution to content-addressed data on IPFS. To this end, the IPVM spec aims to be the easiest, fastest, most secure, and open way to run decentralized compute jobs everywhere.
 
 Another way to describe IPVM would be "an open, decentralized, and local-first competitor to AWS Lambda".
 
