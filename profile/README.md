@@ -57,4 +57,3 @@ These are related, but separate. The relatedness comes from the fact that if we 
 - [Ucan-Invocation Spec](https://github.com/ucan-wg/invocation)
 - [Homestar](https://github.com/ipvm-wg/homestar) - the core, Rust-based implementation of IPVM
 
-- [Homestar, the Rust-based implementation of IPVM](https://github.com/ipvm-wg/homestar)
