@@ -46,3 +46,13 @@ These are related, but separate. The relatedness comes from the fact that if we 
 ## 👩‍💻 Get Involved
 
 * [Community Calls](https://lu.ma/ipvm)
+
+## External Ressources
+
+- [IPVM: High-Level Spec](https://github.com/ipvm-wg/spec)
+- [IPVM: The Long-Fabled Execution Layer](https://www.youtube.com/watch?v=3y1RB8wt_YY) by Brooklyn Zelenka
+- [IPVM - IPFS and WASM](https://www.youtube.com/watch?v=rzJWk1nlYvs) by Brooklyn Zelenka
+- [Breaking Down the Interplanetary Virtual Machine](https://fission.codes/blog/ipfs-thing-breaking-down-ipvm/)
+- [IPVM: Use Cases & System Designs](https://www.youtube.com/watch?v=FhwzEKNZEIA) by Juan Benet
+- [Ucan-Invocation Spec](https://github.com/ucan-wg/invocation)
+- [Homestar](https://github.com/ipvm-wg/homestar) - the core, Rust-based implementation of IPVM
