@@ -14,7 +14,7 @@ The project leverages Wasm, content addressing, SPKI, and object capabilities to
 * A distributed scheduler
   * Single vs cron, local vs remote vs either, etc
 * Matchmaking
-  * Poster/acceptor 
+  * Poster/acceptor
   * Push-to-remote
 * (Global) memoization table & adaptive optimization
 * Managed effects (via an IPVM runtime)
@@ -50,9 +50,13 @@ These are related, but separate. The relatedness comes from the fact that if we 
 ## External Ressources
 
 - [IPVM: High-Level Spec](https://github.com/ipvm-wg/spec)
+- [Homestar](https://github.com/ipvm-wg/homestar) - the core, Rust-based implementation and runtime of IPVM
+- [Seamless Services for an Open World](https://youtu.be/Kr3B3sXh_VA) by Brooklyn Zelenka
+- [Foundations for Open-World Compute](https://youtu.be/dRz5mau6fsY) by Zeeshan Lakhani
+- [IPVM: Content Addressed Compute for an Open World](https://youtu.be/jhtEYr3ORfk) by Brooklyn Zelenka
+- [Foundations for Open-World Compute: Homestar, an IPVM Tale](https://youtu.be/BFAMy5-VHak) by Zeeshan Lakhani
 - [IPVM: The Long-Fabled Execution Layer](https://www.youtube.com/watch?v=3y1RB8wt_YY) by Brooklyn Zelenka
 - [IPVM - IPFS and WASM](https://www.youtube.com/watch?v=rzJWk1nlYvs) by Brooklyn Zelenka
 - [Breaking Down the Interplanetary Virtual Machine](https://fission.codes/blog/ipfs-thing-breaking-down-ipvm/)
 - [IPVM: Use Cases & System Designs](https://www.youtube.com/watch?v=FhwzEKNZEIA) by Juan Benet
 - [Ucan-Invocation Spec](https://github.com/ucan-wg/invocation)
-- [Homestar](https://github.com/ipvm-wg/homestar) - the core, Rust-based implementation of IPVM
