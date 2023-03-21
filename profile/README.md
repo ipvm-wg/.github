@@ -58,6 +58,5 @@ These are related, but separate. The relatedness comes from the fact that if we 
 - [Homestar](https://github.com/ipvm-wg/homestar) - the core, Rust-based implementation of IPVM
 
 - [Breaking Down the Interplanetary Virtual Machine](https://fission.codes/blog/ipfs-thing-breaking-down-ipvm/)
-- [IPVM Use Cases & System Designs](https://www.youtube.com/watch?v=FhwzEKNZEIA) by Juan Benet
 - [Ucan Invocation Spec](https://github.com/ucan-wg/invocation)
 - [Homestar, the Rust-based implementation of IPVM](https://github.com/ipvm-wg/homestar)
