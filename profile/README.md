@@ -22,13 +22,17 @@ The project leverages Wasm, content addressing, SPKI, and object capabilities to
 * "The HTTP of Compute"
 * Stretch: autonomous agents
 
-# Implementations and Interop
+## Implementations
+
+* [Homestar](https://github.com/ipvm-wg/homestar/) - the core, Rust-based
+  implementation and runtime of IPVM
+
+##  Interop
 
 * [Bacalhau](https://bacalhau.org)
-* [Homestar](https://github.com/ipvm-wg/homestar/)
 * [Web3Storage](https://web3.storage/)
 
-# :no_good_woman: Antigoals: What An IPVM Is Not
+## :no_good_woman: Antigoals: What An IPVM Is Not
 
 * A replacement of IPFS internals — that's wasm-ipfs
 * A language for distributed applications
@@ -47,16 +51,24 @@ These are related, but separate. The relatedness comes from the fact that if we 
 
 * [Community Calls](https://lu.ma/ipvm)
 
-## External Ressources
+## Presentations
 
-- [IPVM: High-Level Spec](https://github.com/ipvm-wg/spec)
-- [Homestar](https://github.com/ipvm-wg/homestar) - the core, Rust-based implementation and runtime of IPVM
 - [Seamless Services for an Open World](https://youtu.be/Kr3B3sXh_VA) by Brooklyn Zelenka
 - [Foundations for Open-World Compute](https://youtu.be/dRz5mau6fsY) by Zeeshan Lakhani
-- [IPVM: Content Addressed Compute for an Open World](https://youtu.be/jhtEYr3ORfk) by Brooklyn Zelenka
 - [Foundations for Open-World Compute: Homestar, an IPVM Tale](https://youtu.be/BFAMy5-VHak) by Zeeshan Lakhani
 - [IPVM: The Long-Fabled Execution Layer](https://www.youtube.com/watch?v=3y1RB8wt_YY) by Brooklyn Zelenka
+- [IPVM: Content Addressed Compute for an Open World](https://youtu.be/jhtEYr3ORfk) by Brooklyn Zelenka
 - [IPVM - IPFS and WASM](https://www.youtube.com/watch?v=rzJWk1nlYvs) by Brooklyn Zelenka
-- [Breaking Down the Interplanetary Virtual Machine](https://fission.codes/blog/ipfs-thing-breaking-down-ipvm/)
 - [IPVM: Use Cases & System Designs](https://www.youtube.com/watch?v=FhwzEKNZEIA) by Juan Benet
+
+## Related Specs
+
+- [IPVM: High-Level Spec](https://github.com/ipvm-wg/spec)
+- [IPVM Workflow Spec](https://github.com/ipvm-wg/workflow)
 - [Ucan-Invocation Spec](https://github.com/ucan-wg/invocation)
+
+## External Resources
+
+- [Contributing Research](https://github.com/ipvm-wg/research)
+- [Breaking Down the Interplanetary Virtual Machine](https://fission.codes/blog/ipfs-thing-breaking-down-ipvm/)
+- [IPVM Q1 2023 Update: The Quest to Bring Computation to IPFS](https://fission.codes/blog/ipvm-computation-ipfs/)
