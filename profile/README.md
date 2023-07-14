@@ -65,7 +65,7 @@ These are related, but separate. The relatedness comes from the fact that if we 
 
 - [IPVM: High-Level Spec](https://github.com/ipvm-wg/spec)
 - [IPVM Workflow Spec](https://github.com/ipvm-wg/workflow)
-- [Ucan-Invocation Spec](https://github.com/ucan-wg/invocation)
+- [UCAN Invocation Spec](https://github.com/ucan-wg/invocation)
 
 ## External Resources
 
